@@ -1,0 +1,50 @@
+    1  cd /media/
+    2  ls
+    3  cd dipika/
+    4  ls
+    5  cd VBox_GAs_6.1.22/
+    6  ls
+    7  sudo ./VBoxLinuxAdditions.run 
+    8  sudo apt-get install gcc
+    9  sudo apt-get install make
+   10  sudo apt-get install perl
+   11  sudo ./VBoxLinuxAdditions.run 
+   12  reboot
+   13  ./VBoxLinuxAdditions.run 
+   14  sudo ./VBoxLinuxAdditions.run 
+   15  restart
+   16  reboot
+   17  cp ~/Downloads/* /home/dipika/Akshata/
+   18  cp -r ~/Downloads/* /home/dipika/Akshata/
+   19  df -h
+   20  history
+   21  ls
+   22  conda activate project1
+   23  pip install pyshtools[pygmt]
+   24  sudo apt-get install gmt
+   25  pygmt.show_versions()
+   26  conda install -c anaconda ipykernel
+   27  python3 -m ipykernel install --user --name=project1
+   28  pip install palettable
+   29  cd ..
+   30  conda deactivate
+   31  conda env list
+   32  conda env remove --name project1
+   33  conda env list
+   34  reboot
+   35  jupyter notebook
+   36  conda create --name craters python=3.9.12
+   37  conda activate craters
+   38  ls
+   39  mkdir project1
+   40  ls
+   41  cd project1/
+   42  sudo apt-get install vim
+   43  sudo apt-get install git
+   44  pip install pygmt pip numpy pandas xarray netcdf4 packaging gmt pytest pytest-mpl 
+   45  conda install python=3.9 pygmt pip numpy pandas xarray netcdf4 packaging gmt pytest pytest-mpl 
+   46  pip install pyshtools
+   47  pip install palettable
+   48  conda install -c anaconda ipykernel
+   49  python3 -m ipykernel install --user --name=craters
+   50  conda install -c conda-forge cartopy
