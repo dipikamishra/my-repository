@@ -1,0 +1,32 @@
+ Id CommandLine
+  -- -----------
+   1 & 'C:\Users\Dipikamishra.n\Anaconda3\shell\condabin\conda-hook.ps1' ; conda activate 'C:\Users\Dipikamishra.n\Anaconda3'
+   2 conda install -c conda-forge pyshtools
+   3 pip install pyshtools[pygmt]
+   4 conda install -c conda-forge cartopy
+   5 conda update -c conda-forge pyshtool
+   6 conda update -c conda-forge pyshtools
+   7 conda update -c conda-forge pyshtools-4.10.2
+   8 gmt --version
+   9 where gmt.exe
+  10 pip upgrade pyshtools
+  11 pip install --upgrade pyshtools
+  12 conda install -c conda-forge pygmt gmt
+  13 pip install pygmt
+  14 pip install --no-binary :all: pygmt
+  15 import pygmt
+  16 conda install scipy
+  17  conda create --name dipika_m python=3.9.12
+  18 conda activate dipika_m
+  19 ls
+  20 pip install pygmt pip numpy pandas xarray netcdf4 packaging gmt pytest pytest-mpl
+  21 conda install python=3.9 pygmt pip numpy pandas xarray netcdf4 packaging gmt pytest pytest-mpl
+  22 pip install pyshtools[pygmt]
+  23 pygmt.show_versions()
+  24 pygmt.show_versions()
+  25 pip install pyshtools
+  26 pip install palettable
+  27  conda install -c conda-forge cartopy
+  28 conda install -c anaconda ipykernel
+  29 python3 -m ipykernel install --user --name=dipika_m
+  30 python -m ipykernel install --user --name=dipika_m
